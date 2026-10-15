@@ -1,16 +1,13 @@
-## Hi there 👋
+## hi, madcamoszn here 👋
 
-<!--
-**madcamoszn/madcamoszn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build frontend interfaces with TypeScript, React, and Next.js. Mostly interested in web performance, design systems, and making UI that actually works for everyone. Tailwind and Vite keep things moving fast on my end.
 
-Here are some ideas to get you started:
+- 🔭 refining a component library with better accessibility defaults
+- reach me at **@madcamoszn** on GitHub
+- usually building small tools nobody asked for
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=madcamoszn&theme=calm&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=madcamoszn&hide_border=true&theme=react-dark" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/TailwindCSS-58a6ff?style=for-the-badge&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/TypeScript-58a6ff?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-58a6ff?style=for-the-badge&logoColor=white" alt="React" />
